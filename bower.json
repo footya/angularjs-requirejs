@@ -1,0 +1,29 @@
+{
+  "name": "mfb",
+  "version": "0.1",
+  "main": "index.html",
+  "ignore": [
+    "**/.*",
+    "libs",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ui-router": "~0.2.7",
+    "angular": "~1.2.9",
+    "requirejs": "~2.1.10",
+    "angular-route": "~1.2.9",
+    "jquery": "~2.0.3"
+  },
+  "authors": [
+    "footya <footya@gmail.com>"
+  ],
+  "description": "",
+  "keywords": [
+    ""
+  ],
+  "license": "MIT"
+}
